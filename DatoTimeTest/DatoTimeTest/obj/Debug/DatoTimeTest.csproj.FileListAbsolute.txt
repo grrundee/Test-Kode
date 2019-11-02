@@ -1,0 +1,7 @@
+C:\Users\Grunde\OneDrive - USN\Programming Projects\DivTest\Test-Kode\DatoTimeTest\DatoTimeTest\bin\Debug\DatoTimeTest.dll
+C:\Users\Grunde\OneDrive - USN\Programming Projects\DivTest\Test-Kode\DatoTimeTest\DatoTimeTest\bin\Debug\DatoTimeTest.pdb
+C:\Users\Grunde\OneDrive - USN\Programming Projects\DivTest\Test-Kode\DatoTimeTest\DatoTimeTest\obj\Debug\DatoTimeTest.csprojAssemblyReference.cache
+C:\Users\Grunde\OneDrive - USN\Programming Projects\DivTest\Test-Kode\DatoTimeTest\DatoTimeTest\obj\Debug\DatoTimeTest.UserControl1.resources
+C:\Users\Grunde\OneDrive - USN\Programming Projects\DivTest\Test-Kode\DatoTimeTest\DatoTimeTest\obj\Debug\DatoTimeTest.csproj.GenerateResource.cache
+C:\Users\Grunde\OneDrive - USN\Programming Projects\DivTest\Test-Kode\DatoTimeTest\DatoTimeTest\obj\Debug\DatoTimeTest.dll
+C:\Users\Grunde\OneDrive - USN\Programming Projects\DivTest\Test-Kode\DatoTimeTest\DatoTimeTest\obj\Debug\DatoTimeTest.pdb
